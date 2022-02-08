@@ -1,5 +1,5 @@
 {
-  "name": "rockpaperscissors",
+  "name": "rpc-game",
   "version": "1.0.0",
   "main": "app.js",
   "type": "module",
